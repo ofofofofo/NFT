@@ -1,7 +1,7 @@
 {
   "name": "test 6",
   "description": "test NFT MetaDeta",
-  "image": "https://raw.githubusercontent.com/ofofofofo/NFT/main/images/1_vY_heWjJPoOV5dKhUvnZZg.png",
+  "image": "https://gateway.pinata.cloud/ipfs/QmW5sPVbZDueZwvSuibteAwDFwFXhF8gebfptGBx1DZq1j",
   "external_link": "https://raw.githubusercontent.com/ofofofofo/NFT/main/meta/6",
   "seller_fee_basis_points": 100,
   "fee_recipient": "0xf94Fa421cBb0896559d8E00CA3D1055651E48480"
