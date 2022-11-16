@@ -1,0 +1,9 @@
+{
+  "name": "Meme NFT",
+  "description": "NFTs are so hot right now",
+  "image": "https://raw.githubusercontent.com/ofofofofo/NFT/main/images/meme-nft.jpeg",
+  "attributes": [
+    { "trait_type": "meme", "value": "So Hot Right Now" },
+    { "trait_type": "event", "value": "EthDenver 2022" }
+  ]
+}
